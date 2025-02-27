@@ -28,4 +28,4 @@ def reversing_char_in_each_words(string):
 reversing_characters_using_loop(name)
 reversing_characters_using_slicing_operator(name)
 reversing_sequence_of_words(name)
-reversing_char_in_each_words(name)
+#reversing_char_in_each_words(name)
